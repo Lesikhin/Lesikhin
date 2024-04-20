@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет. Я Юрий Лесихин. В настоящее время работаю в Сбере 
 
 <!--
 **Lesikhin/Lesikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
