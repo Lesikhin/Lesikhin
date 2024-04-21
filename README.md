@@ -1,10 +1,13 @@
 ### Hi, I'm Yuri
+#### Executive Director in Sber </h2>
 
+#### About Me :
 I have been working in IT for more than 30 years.
-I have experience in IT management, 150 subordinates.
+I have big experience in IT management, 150 subordinates.
 
 Now I'm managing large IT projects and studying at data scientist.
 
+#### Languages and Tools :
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -20,8 +23,6 @@ Now I'm managing large IT projects and studying at data scientist.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesikhin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesikhin&theme=cobalt&show_icons=true)
+ ---
+ ### My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lesikhin&theme=nord_dark)
