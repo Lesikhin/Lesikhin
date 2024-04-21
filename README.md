@@ -9,7 +9,7 @@
 
 - Will be glad to colloborate
 - How to reach me: yuri.lesikhin@gmail.com
-- 
+  
 #### Languages and Tools :
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
