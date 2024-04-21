@@ -3,7 +3,7 @@
 I have been working in IT for more than 30 years.
 I have experience in IT management, 150 subordinates.
 
-Now I manage large IT projects and study at data scientist.
+Now I'm managing large IT projects and studying at data scientist.
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
